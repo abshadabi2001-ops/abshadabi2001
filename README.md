@@ -37,6 +37,10 @@ Deep learning system that detects eye closure and alerts the driver.
 ### AI Learning Platform
 Multi-course student dashboard system powered by AI modules.
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abshadabi2001-ops&show_icons=true&theme=tokyonight"/>
+</p>
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abshadabi2001-ops&show_icons=true)
