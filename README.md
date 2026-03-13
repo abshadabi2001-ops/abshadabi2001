@@ -17,14 +17,13 @@ Currently working on AI-powered applications including:
 - Drowsiness Detection System
 - Deep Learning APIs with FastAPI
 
+
+## 🚀 Tech Stack
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,fastapi,git,linux" />
 </p>
-## 🚀 Tech Stack
-
-Python • PyTorch • TensorFlow • OpenCV  
-Machine Learning • Deep Learning • Computer Vision  
-FastAPI • Docker • Streamlit • REST APIs  
+  
 
 ## 📌 Featured Projects
 
