@@ -17,6 +17,7 @@ Currently working on AI-powered applications including:
 - Drowsiness Detection System
 - Deep Learning APIs with FastAPI
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Mohammed%20Abshad&fontSize=40&fontAlignY=35&animation=fadeIn" />
 ## 🚀 Tech Stack
 
 Python • PyTorch • TensorFlow • OpenCV  
