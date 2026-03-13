@@ -50,6 +50,8 @@ Multi-course student dashboard system powered by AI modules.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abshadabi2001-ops&theme=tokyonight"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/mohammed-abshad-k-493163240
