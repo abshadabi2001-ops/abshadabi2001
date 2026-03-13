@@ -20,6 +20,10 @@ Currently working on AI-powered applications including:
 
 ## 🚀 Tech Stack
 
+Python • PyTorch • TensorFlow • OpenCV  
+Machine Learning • Deep Learning • Computer Vision  
+FastAPI • Docker • Streamlit • REST APIs  
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,fastapi,git,linux" />
 </p>
@@ -36,13 +40,11 @@ Deep learning system that detects eye closure and alerts the driver.
 ### AI Learning Platform
 Multi-course student dashboard system powered by AI modules.
 
+## 📊 GitHub Stats
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abshadabi2001-ops&show_icons=true&theme=tokyonight"/>
 </p>
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abshadabi2001-ops&show_icons=true)
 
 ## 📫 Connect With Me
 
