@@ -17,7 +17,9 @@ Currently working on AI-powered applications including:
 - Drowsiness Detection System
 - Deep Learning APIs with FastAPI
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,fastapi,git,linux" />
+</p>
 ## 🚀 Tech Stack
 
 Python • PyTorch • TensorFlow • OpenCV  
