@@ -5,7 +5,10 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
-AI / Machine Learning Engineer | Python Developer | Building AI Applications
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Python+Developer;Building+AI+Applications"
+ />
+</p>
 
 I am passionate about building intelligent systems using Machine Learning, Deep Learning and Computer Vision.
 
