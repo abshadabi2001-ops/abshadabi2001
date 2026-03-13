@@ -1,57 +1,28 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mohammed+Abshad" />
-</p>
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Mohammed%20Abshad&fontSize=40&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Python+Developer;Building+AI+Applications"
- />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;Python+Developer"/>
 </p>
 
-I am passionate about building intelligent systems using Machine Learning, Deep Learning and Computer Vision.
+---
 
-Currently working on AI-powered applications including:
-- Virtual Fitness Trainer (MediaPipe + Python)
-- Drowsiness Detection System
-- Deep Learning APIs with FastAPI
+### 🚀 About Me
+AI Engineer passionate about building intelligent systems using Machine Learning, Deep Learning, and Computer Vision.
 
+---
 
-## 🚀 Tech Stack
+### 🧠 Tech Stack
 
-Python • PyTorch • TensorFlow • OpenCV  
-Machine Learning • Deep Learning • Computer Vision  
-FastAPI • Docker • Streamlit • REST APIs  
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,fastapi,git,linux" />
-</p>
-  
+---
 
-## 📌 Featured Projects
+### 📊 GitHub Stats
 
-### AI Virtual Fitness Trainer
-Real-time pose detection using MediaPipe and Python to monitor exercise posture.
-
-### Driver Drowsiness Detection
-Deep learning system that detects eye closure and alerts the driver.
-
-### AI Learning Platform
-Multi-course student dashboard system powered by AI modules.
-
-## 📊 GitHub Stats
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abshadabi2001-ops&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abshadabi2001-ops&theme=tokyonight"/>
-</p>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
-
-## 📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/mohammed-abshad-k-493163240
